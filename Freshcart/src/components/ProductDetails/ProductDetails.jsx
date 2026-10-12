@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, Pagination } from 'swiper/modules';
-import { getProductDetails } from '../../Services/Api';
+import { getProductDetails } from "../../services/api";
 import 'swiper/css';
 import 'swiper/css/pagination';
 

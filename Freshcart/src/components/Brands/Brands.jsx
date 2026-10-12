@@ -1,8 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { getBrands } from '../../Services/Api';
-// import { getBrands } from '../../Services/Api'; 
-// import { getBrands } from '../../services/api';
+import { getBrands } from "../../services/api";
 
 function Brands() {
     // * States

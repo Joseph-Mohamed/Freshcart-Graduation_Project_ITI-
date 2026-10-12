@@ -1,8 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
-// import { getBrandDetails } from '../../Services/Api'; 
-// import { getBrandDetails } from '../../Services/Api'; 
-import { getBrandsDetails } from '../../Services/Api';
+import { getBrandsDetails } from "../../services/api";
 
 
 function BrandDetails() {
