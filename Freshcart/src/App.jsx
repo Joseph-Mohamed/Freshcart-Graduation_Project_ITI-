@@ -6,7 +6,7 @@ import Products from './components/Products/Products'
 import ProductDetails from './components/ProductDetails/ProductDetails'
 import Brands from './components/Brands/Brands'
 import NotFound from './components/NotFound/NotFound'
-import BrandDetails from './components/BrandsDetails/BrandsDetails'
+import BrandsDetails from './components/BrandsDetails/BrandsDetails'
 
 function App() {
 
@@ -20,7 +20,7 @@ function App() {
       { path: '/products', element: <Products /> }, 
       { path: '/productdetails/:id', element: <ProductDetails /> }, 
       { path: '/brands', element: <Brands /> }, 
-      { path: '/brandDetails/:id', element: <BrandDetails /> }, 
+      { path: '/brandDetails/:id', element: <BrandsDetails /> }, 
       { path: '*', element: <NotFound /> }
     ]
   }
