@@ -1,23 +1,23 @@
 <div align="center">
 
 # 🛒 FreshCart
-### Modern E-Commerce Web Application
+### E-Commerce Web Application
 
 **ITI Graduation Project | Front-End Development**
 
-A responsive e-commerce application designed to provide users with a simple, intuitive, and engaging online shopping experience.
+A modern e-commerce application that provides a simple and intuitive shopping experience through product browsing, brand exploration, and detailed product pages.
 
-<br />
+<br>
 
-![React](https://img.shields.io/badge/React-2023?style=for-the-badge&logo=react&logoColor=61DAFB&color=20232A)
+![React](https://img.shields.io/badge/React-2023-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<br />
+<br>
 
-[Explore Repository](https://github.com/Joseph-Mohamed/Freshcart-Graduation_Project_ITI-)
+[Repository](https://github.com/Joseph-Mohamed/Freshcart-Graduation_Project_ITI-)
 ·
 [Report an Issue](https://github.com/Joseph-Mohamed/Freshcart-Graduation_Project_ITI-/issues)
 
@@ -28,9 +28,9 @@ A responsive e-commerce application designed to provide users with a simple, int
 ## 📑 Table of Contents
 
 - [📌 Project Overview](#-project-overview)
-- [✨ Key Features](#-key-features)
-- [🖥️ Application Screenshots](#️-application-screenshots)
-- [🛠️ Technology Stack](#️-technology-stack)
+- [✨ Features](#-features)
+- [🖥️ Screenshots](#️-screenshots)
+- [🛠️ Technologies](#️-technologies)
 - [🔄 Application Flowchart](#-application-flowchart)
 - [⚙️ Prerequisites](#️-prerequisites)
 - [🚀 Installation & Setup](#-installation--setup)
@@ -43,132 +43,143 @@ A responsive e-commerce application designed to provide users with a simple, int
 
 ## 📌 Project Overview
 
-**FreshCart** is an e-commerce web application developed as part of an Information Technology Institute (ITI) graduation project.
+**FreshCart** is an e-commerce web application developed as part of an **Information Technology Institute (ITI) graduation project**.
 
-The application provides an organized shopping interface where users can explore products, search for items, discover brands, and view detailed product information through an intuitive and responsive user interface.
+The application provides an intuitive shopping interface that allows users to explore products, search for items, discover brands, and view detailed product information.
 
-The project focuses on applying modern front-end development practices, reusable React components, client-side navigation, and responsive UI design.
+The project focuses on building a responsive user interface while applying modern front-end development concepts and component-based architecture.
 
 ### 🎯 Project Goals
 
-- Build a clean and user-friendly shopping interface.
-- Organize product information for easy browsing.
-- Provide interactive product and brand exploration.
-- Implement responsive layouts for different screen sizes.
-- Apply React and modern JavaScript concepts in a practical project.
+- Build a clean and user-friendly shopping experience.
+- Organize products into an accessible interface.
+- Enable convenient product and brand exploration.
+- Create responsive layouts for different screen sizes.
+- Apply React and modern JavaScript concepts in a real-world project.
 
 ---
 
-## ✨ Key Features
+## ✨ Features
 
 ### 🛍️ Product Browsing
-
-- Explore a collection of products through an organized product listing.
+- Browse available products through an organized product grid.
 - View product images, names, categories, prices, and ratings where available.
-- Navigate between product listings and product details.
+- Navigate to individual product details.
 
 ### 🔎 Product Search
-
 - Search for products by name.
-- Filter displayed products based on the search input.
+- Find products more conveniently through the search interface.
 
 ### 🏷️ Brand Exploration
-
-- Explore available brands through a dedicated brands section.
-- View brand information and associated products where supported.
+- Browse brands through a dedicated brands page.
+- Explore brand information and available products where supported.
 
 ### 🖼️ Product Details
-
 - View detailed product information.
-- Browse product images through an interactive image gallery.
-- Explore available product information and ratings.
+- Browse product images through an image gallery.
+- Access available product information and ratings.
 
-### 📱 Responsive User Interface
+### 📱 Responsive UI
+- Organized layouts for different screen sizes.
+- Bootstrap-based styling and layout utilities.
+- Consistent navigation and visual presentation.
 
-- Responsive layouts designed for different screen sizes.
-- Bootstrap-based layout and styling.
-- Consistent navigation and visual elements.
-
-### ⚡ Client-Side Navigation
-
-- Navigate between application pages using React Router.
-- Provide a smooth browsing experience without requiring a full page reload for every navigation.
+### ⚡ Interactive Navigation
+- Navigate between application pages.
+- Explore products and brands through an intuitive interface.
 
 ---
 
-## 🖥️ Application Screenshots
+## 🖥️ Screenshots
 
-The following screenshots demonstrate the application's main interfaces.
+Explore the main interfaces of FreshCart.
 
-> **Note:** Add the individual screenshot files to `Freshcart/screenshots/` using the filenames shown below. Each image will appear separately.
+> **Note:** Upload the screenshots into the `screenshots/` folder in the repository root. Use the exact filenames shown below.
 
-### 🏠 Products & Recommendations
+### 🏠 Products Page
 
-Explore products through a clean layout featuring product cards, ratings, and search functionality.
+Browse the available products through a clean and organized product grid.
 
 <div align="center">
-  <img src="Freshcart/screenshots/products.png" alt="FreshCart Products Page" width="85%" />
+
+<img src="./screenshots/home.png" alt="FreshCart Home" width="90%">
+
+</div>
+
+### 🛍️ Product Recommendations
+
+Explore recommended products and use the search interface to find items.
+
+<div align="center">
+
+<img src="./screenshots/products.png" alt="FreshCart Product Recommendations" width="90%">
+
 </div>
 
 ### 🏷️ All Brands
 
-Discover available brands through a dedicated, organized brand listing.
+Discover brands through a dedicated and organized interface.
 
 <div align="center">
-  <img src="Freshcart/screenshots/brands.png" alt="FreshCart Brands Page" width="85%" />
+
+<img src="./screenshots/brands.png" alt="FreshCart Brands Page" width="90%">
+
 </div>
 
-### 🛍️ Product Details
+### 📦 Product Details
 
-View product information, explore the product gallery, and access available product actions.
+View product information, browse available images, and explore the product page.
 
 <div align="center">
-  <img src="Freshcart/screenshots/product-details.png" alt="FreshCart Product Details Page" width="85%" />
+
+<img src="./screenshots/product-details.png" alt="FreshCart Product Details" width="90%">
+
 </div>
 
-### 🏷️ Brand Details
+### 🏢 Brand Details
 
-View the information displayed for a selected brand.
+View the information presented for an individual brand.
 
 <div align="center">
-  <img src="Freshcart/screenshots/brand-details.png" alt="FreshCart Brand Details" width="85%" />
+
+<img src="./screenshots/brand-details.png" alt="FreshCart Brand Details" width="90%">
+
 </div>
 
 ---
 
-## 🛠️ Technology Stack
-
-The application uses modern front-end technologies to build its interface and application structure.
+## 🛠️ Technologies
 
 | Technology | Purpose |
 |---|---|
 | **HTML5** | Structures the application's content. |
-| **CSS3** | Provides custom styling and visual presentation. |
+| **CSS3** | Provides styling and visual presentation. |
 | **JavaScript ES6+** | Implements application logic and interactive behavior. |
 | **React.js** | Builds reusable, component-based user interfaces. |
-| **React Router** | Supports client-side navigation between pages. |
-| **Bootstrap 5** | Provides responsive layout utilities and UI styling. |
-| **Font Awesome** | Provides icons used throughout the interface. |
-| **Swiper.js** | Supports interactive image galleries and sliders where implemented. |
-| **Git & GitHub** | Support source-code version control and collaboration. |
+| **React Router** | Supports client-side navigation, if configured in the project. |
+| **Bootstrap 5** | Provides responsive layout utilities and styling. |
+| **Font Awesome** | Provides icons, where used. |
+| **Swiper.js** | Supports sliders and image galleries, where used. |
+| **Git & GitHub** | Support version control and collaboration. |
 
 ---
 
 ## 🔄 Application Flowchart
 
-The following flowchart illustrates the main browsing journey through FreshCart.
+The following diagram illustrates the main browsing journey through FreshCart.
 
 ```mermaid
 flowchart TD
     A([Start]) --> B[Open FreshCart]
     B --> C[Browse Products]
+
     C --> D{Choose an Action}
 
     D --> E[Search Products]
     D --> F[Explore Brands]
     D --> G[Select a Product]
 
-    E --> H[View Filtered Results]
+    E --> H[View Search Results]
     H --> C
 
     F --> I[View Brand Information]
@@ -177,8 +188,8 @@ flowchart TD
     G --> J[Open Product Details]
     J --> K[Browse Product Images]
     K --> L[View Product Information]
-    L --> M{Continue Browsing?}
 
+    L --> M{Continue Browsing?}
     M -->|Yes| C
     M -->|No| N([End])
 
@@ -193,30 +204,26 @@ flowchart TD
 
 ## ⚙️ Prerequisites
 
-Before running FreshCart locally, ensure that the following tools are installed.
+Before running FreshCart locally, make sure you have installed:
 
-| Requirement | Description |
-|---|---|
-| **Node.js** | JavaScript runtime environment. |
-| **npm** | Package manager included with Node.js. |
-| **Git** | Required to clone the repository. |
-| **Code Editor** | Visual Studio Code or any preferred editor. |
+- **Node.js** — JavaScript runtime.
+- **npm** — Package manager included with Node.js.
+- **Git** — Version control system.
+- **Visual Studio Code** or another code editor.
 
-You can download the required tools from their official websites:
+Official resources:
 
-- [Node.js](https://nodejs.org/)
-- [Git](https://git-scm.com/)
+- [Download Node.js](https://nodejs.org/)
+- [Download Git](https://git-scm.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 ---
 
 ## 🚀 Installation & Setup
 
-Follow these steps to clone the repository, install the dependencies, and run FreshCart locally.
+Follow these steps to run FreshCart on your local machine.
 
 ### 1. Clone the Repository
-
-Open your terminal and execute:
 
 ```bash
 git clone https://github.com/Joseph-Mohamed/Freshcart-Graduation_Project_ITI-.git
@@ -230,15 +237,11 @@ cd Freshcart-Graduation_Project_ITI-
 
 ### 3. Navigate to the Application Folder
 
-The application is located inside the `Freshcart` directory.
-
 ```bash
 cd Freshcart
 ```
 
 ### 4. Install Dependencies
-
-Install the project's required packages:
 
 ```bash
 npm install
@@ -246,7 +249,7 @@ npm install
 
 ### 5. Start the Development Server
 
-Run the appropriate command according to the scripts defined in `package.json`.
+Check the `scripts` section in `package.json` and execute the appropriate command.
 
 For a Create React App project:
 
@@ -260,13 +263,13 @@ For a Vite project:
 npm run dev
 ```
 
-**Important:** Use the command configured in your project's `package.json`. The commands above are alternatives, not commands that must both be executed.
+> Use the command configured in your project. You do not need to run both commands.
 
 ### 6. Open the Application
 
-Once the development server starts, open the local URL displayed in your terminal.
+Open the local URL displayed in your terminal.
 
-Common development URLs include:
+Common development URLs are:
 
 - Create React App: `http://localhost:3000`
 - Vite: `http://localhost:5173`
@@ -277,61 +280,63 @@ The actual URL depends on your project configuration.
 
 ## 📂 Project Structure
 
-The repository contains the main application inside the `Freshcart/` directory.
+The following structure illustrates how the repository and screenshots can be organized.
 
 ```text
 Freshcart-Graduation_Project_ITI-/
 │
 ├── Freshcart/
-│   ├── public/                 # Public static assets
-│   ├── src/                    # Application source code
-│   │   ├── components/         # Reusable UI components
-│   │   ├── pages/              # Application pages
-│   │   ├── assets/             # Images and other assets
-│   │   └── ...                 # Other application modules
-│   │
-│   ├── screenshots/            # README application screenshots
-│   ├── package.json            # Dependencies and npm scripts
-│   └── package-lock.json       # Dependency lock file
+│   ├── public/
+│   ├── src/
+│   ├── package.json
+│   └── package-lock.json
 │
-└── README.md                   # Project documentation
+├── screenshots/
+│   ├── home.png
+│   ├── products.png
+│   ├── brands.png
+│   ├── product-details.png
+│   └── brand-details.png
+│  
+│
+└── README.md
 ```
 
-> The structure above is illustrative. Folder names may differ from the actual implementation.
+> The application folders shown above are illustrative. Your actual source-code structure may differ.
 
 ---
 
 ## 🎯 Learning Objectives
 
-This project provides practical experience with:
+Through this project, we practiced:
 
-- Building component-based applications using React.
+- Building React applications using reusable components.
 - Applying modern JavaScript features.
-- Creating responsive layouts with Bootstrap.
-- Implementing client-side navigation.
-- Rendering and filtering product data.
-- Designing interactive product interfaces.
-- Organizing source code for maintainability.
-- Using Git and GitHub for version control.
-- Documenting a software project professionally.
+- Creating responsive interfaces with Bootstrap.
+- Organizing and displaying product data.
+- Implementing product search functionality.
+- Designing interactive product pages.
+- Navigating between application views.
+- Managing source code using Git and GitHub.
+- Writing clear project documentation.
 
 ---
 
 ## 🔮 Future Improvements
 
-Potential enhancements for future versions include:
+Potential enhancements include:
 
 - 🛒 Shopping cart management.
 - ❤️ Wishlist functionality.
 - 🔐 User authentication and account management.
 - 📦 Order management and order history.
 - 💳 Payment integration.
-- 🔎 Advanced product filtering and sorting.
+- 🔎 Advanced filtering and sorting.
 - 🧪 Automated testing.
 - ♿ Improved accessibility.
 - 🚀 Production deployment and performance optimization.
 
-> These items represent potential improvements and should not be interpreted as currently implemented features.
+> These are potential future enhancements and are not necessarily implemented in the current version.
 
 ---
 
@@ -345,7 +350,7 @@ Special thanks to the instructors, mentors, and everyone who contributed to the 
 
 <div align="center">
 
-### 🛒 FreshCart
+## 🛒 FreshCart
 
 **Making online shopping simple and intuitive.**
 
