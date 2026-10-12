@@ -96,13 +96,14 @@ Explore the main interfaces of FreshCart.
 
 > **Note:** Upload the screenshots into the `screenshots/` folder in the repository root. Use the exact filenames shown below.
 
-### 🏠 Products Page
+### 🏠 Home Page
 
-Browse the available products through a clean and organized product grid.
+Browse the available products through a clean and organized home.
 
 <div align="center">
 
-<img src="./screenshots/home.png" alt="FreshCart Home" width="90%">
+<img src="https://github.com/Joseph-Mohamed/Freshcart-Graduation_Project_ITI-/blob/main/Freshcart/screenshots/home.png" alt="FreshCart Home" width="90%">
+
 
 </div>
 
@@ -112,7 +113,7 @@ Explore recommended products and use the search interface to find items.
 
 <div align="center">
 
-<img src="../screenshots/products.png" alt="FreshCart Product Recommendations" width="90%">
+<img src="https://github.com/Joseph-Mohamed/Freshcart-Graduation_Project_ITI-/blob/main/Freshcart/screenshots/products.png" alt="FreshCart Product Recommendations" width="90%">
 
 </div>
 
@@ -122,7 +123,7 @@ Discover brands through a dedicated and organized interface.
 
 <div align="center">
 
-<img src="./screenshots/brands.png" alt="FreshCart Brands Page" width="90%">
+<img src="https://github.com/Joseph-Mohamed/Freshcart-Graduation_Project_ITI-/blob/main/Freshcart/screenshots/brands.png" alt="FreshCart Brands Page" width="90%">
 
 </div>
 
@@ -132,7 +133,7 @@ View product information, browse available images, and explore the product page.
 
 <div align="center">
 
-<img src="./screenshots/product-details.png" alt="FreshCart Product Details" width="90%">
+<img src="https://github.com/Joseph-Mohamed/Freshcart-Graduation_Project_ITI-/blob/main/Freshcart/screenshots/product-details.png" alt="FreshCart Product Details" width="90%">
 
 </div>
 
@@ -142,7 +143,7 @@ View the information presented for an individual brand.
 
 <div align="center">
 
-<img src="./screenshots/brand-details.png" alt="FreshCart Brand Details" width="90%">
+<img src="https://github.com/Joseph-Mohamed/Freshcart-Graduation_Project_ITI-/blob/main/Freshcart/screenshots/product-details.png" alt="FreshCart Brand Details" width="90%">
 
 </div>
 
