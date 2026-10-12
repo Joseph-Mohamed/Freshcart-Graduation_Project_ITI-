@@ -142,8 +142,7 @@ View product information, browse available images, and explore the product page.
 View the information presented for an individual brand.
 
 <div align="center">
-
-<img src="https://github.com/Joseph-Mohamed/Freshcart-Graduation_Project_ITI-/blob/main/Freshcart/screenshots/product-details.png" alt="FreshCart Brand Details" width="90%">
+<img src="https://github.com/Joseph-Mohamed/Freshcart-ITI_Graduation_Project/blob/main/Freshcart/screenshots/brand-details.png" alt="FreshCart Brand Details" width="90%">
 
 </div>
 
