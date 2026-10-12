@@ -112,7 +112,7 @@ Explore recommended products and use the search interface to find items.
 
 <div align="center">
 
-<img src="./screenshots/products.png" alt="FreshCart Product Recommendations" width="90%">
+<img src="../screenshots/products.png" alt="FreshCart Product Recommendations" width="90%">
 
 </div>
 
